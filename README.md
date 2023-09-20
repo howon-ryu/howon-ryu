@@ -11,7 +11,7 @@ age : 24, 1999년생
 
 깃허브 주소 : [**https://github.com/howon-ryu**](https://github.com/howon-ryu)
 
-
+<!--
 ---
 
 
@@ -20,7 +20,7 @@ age : 24, 1999년생
 
 
 ---
-
+-->
 ## Skills(기술스택)
 
 
@@ -67,7 +67,7 @@ age : 24, 1999년생
 
 ### 비틀웍스
 
-## 솔루션개발팀 - 사원
+#### 솔루션개발팀 - 사원
 
 2022.07.04~2023.07.04(12개월)
 
@@ -79,13 +79,13 @@ age : 24, 1999년생
 
 ### TMAXSOFT
 
-## AI연구팀 - 인턴
+#### AI연구팀 - 인턴
 
 2023.08.28~
 
 - 
     
-
+---
 
 
 ![howon's GitHub stats](https://github-readme-stats.vercel.app/api?username=howon-ryu&show_icons=true&theme=radical)
