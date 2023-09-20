@@ -94,14 +94,14 @@ age : 24, 1999년생
 
 ---
 
-
+## SOLVED.AC
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorgh2akfl)](https://solved.ac/qorgh2akfl)
 
 
 
 
-[![howon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howon-ryu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
