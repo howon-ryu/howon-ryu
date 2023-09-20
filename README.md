@@ -84,6 +84,12 @@ age : 24, 1999년생
 2023.08.28~
 
 - 
+
+---
+
+## SOLVED.AC
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorgh2akfl)](https://solved.ac/qorgh2akfl)
     
 ---
 
@@ -92,11 +98,7 @@ age : 24, 1999년생
 ![howon's GitHub stats](https://github-readme-stats.vercel.app/api?username=howon-ryu&show_icons=true&theme=gruvbox_light)
 <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howon-ryu&layout=compact">
 
----
 
-## SOLVED.AC
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorgh2akfl)](https://solved.ac/qorgh2akfl)
 
 
 
