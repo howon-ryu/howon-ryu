@@ -88,7 +88,7 @@ age : 24, 1999년생
 ---
 
 
-![howon's GitHub stats](https://github-readme-stats.vercel.app/api?username=howon-ryu&show_icons=true&theme=radical)
+![howon's GitHub stats](https://github-readme-stats.vercel.app/api?username=howon-ryu&show_icons=true&theme=gruvbox_light)
 
 
 
