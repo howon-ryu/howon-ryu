@@ -27,24 +27,24 @@ age : 24, 1999년생
 
 ## Frontend
 
-- HTML,CSS,JavaScript
-- React.js
-- Next.js
-- tailwind css
+- HTML,CSS,JavaScript(☆☆☆☆)
+- React.js(☆☆☆)
+- Next.js(☆☆)
+- tailwind css(☆)
 - Visual Studio Code
 
 ## Backend
 
-- PHP
-- JAVA
-- PYTHON(FLASK)
+- PHP(☆☆☆)
+- JAVA(☆)
+- PYTHON(FLASK)(☆☆)
 
 ## DevOps
 
-- AWS EC2, S3, cloudfront, Route53, LamDa, iot
-- Linux
-- Git
-- PHPMYADMIN
+- AWS EC2, S3, cloudfront, Route53, LamDa, iot(☆☆☆)
+- Linux(☆)
+- Git(☆☆☆)
+- PHPMYADMIN(☆☆)
 
 
     
