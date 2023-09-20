@@ -87,18 +87,22 @@ age : 24, 1999년생
     
 ---
 
-### GITHUB
+## GITHUB
 
 ![howon's GitHub stats](https://github-readme-stats.vercel.app/api?username=howon-ryu&show_icons=true&theme=gruvbox_light)
-
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howon-ryu&layout=compact">
 
 ---
 
-<div>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorgh2akfl)](https://solved.ac/qorgh2akfl)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howon-ryu&layout=compact)](https://github.com/howon-ryu/github-readme-stats)
-</div>
+
+[![howon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howon-ryu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
