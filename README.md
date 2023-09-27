@@ -69,7 +69,7 @@ age : 24, 1999년생
 - AWS Certified Cloud Practitioner (2022.11.21)
 - SQL Developer (2022.12.02)
 - 한국항공대 산학프로젝트 3등상 (향수 추천 시스템)
-- 'socar AI엔지니오 육성 부트캠프 2기' 우수 수료
+- 'SOCAR AI엔지니어 육성 부트캠프 2기' 우수 수료
 - Comento '대기업 IT현직자와 함께 클라우드 AWS 구축부터 운영까지 실무 AtoZ' 수료
 
 ---
