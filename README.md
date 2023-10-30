@@ -47,6 +47,7 @@ age : 24, 1999년생
 - PHP(☆☆☆)
 - JAVA(☆)
 - PYTHON(FLASK)(☆☆)
+- PYTHON(FASTAPI)(☆☆)
 
 ## DevOps
 
