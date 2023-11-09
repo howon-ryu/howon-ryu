@@ -32,7 +32,6 @@ age : 24, 1999년생
 ## Skills(기술스택)
 
 
-
 ## Frontend
 
 - HTML,CSS,JavaScript(☆☆☆☆)
