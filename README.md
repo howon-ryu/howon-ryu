@@ -91,6 +91,7 @@ age : 24, 1999년생
 - 1. NCP 인프라 구축(Linux, Flask, Fastapi, React)
 - 2. AI 모델 테스트 (vicuna, zephyr)
 - 3. GPU 서버 도커 구축
+- 4. TMAXSOFT 챗봇 고도화
 ---
 
 ## SOLVED.AC
