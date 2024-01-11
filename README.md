@@ -4,7 +4,7 @@
 ### Contact
 Email : **qorgh2akfl@naver.com**
 
-age : 24, 1999년생
+age : 25, 1999년생
 
 ### Channel
 
