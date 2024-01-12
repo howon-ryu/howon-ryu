@@ -54,6 +54,7 @@ age : 25, 1999년생
 - Git(☆☆☆)
 - PHPMYADMIN(☆☆)
 - Docker(☆)
+- NCP(☆)
     
 ---
 
