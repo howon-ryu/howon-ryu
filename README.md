@@ -12,7 +12,6 @@ age : 26, 1999년생
 <!--
 
 
-
 노션 포트폴리오 : [**https://stripe-dumpling-aec.notion.site/1e9b782a616d413381836e8b37803f14?pvs=4**](https://stripe-dumpling-aec.notion.site/1e9b782a616d413381836e8b37803f14?pvs=4)
 
 
